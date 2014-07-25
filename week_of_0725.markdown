@@ -39,3 +39,5 @@ Here are my ideas on establishing a role:
 - To integrate other's ideas as I find them suitable to my understanding of self
 
 was all of that too 'left-field' to make any sense?  
+
+MAH

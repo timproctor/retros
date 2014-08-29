@@ -24,4 +24,5 @@ would have anything. One can literally watch our app GROW!
 Your assessment is coming next week. Do you feel prepared? What is your strategy
 going to be?
 
-**I have no strategy. I am what I am. 
+**I have no strategy except to apply the problem solving techniques Jeff steered
+me towards and the ones I see Josh using. I am what I am. 

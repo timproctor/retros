@@ -1,0 +1,21 @@
+### You shipped your second major Rails projects this week. What were some of the
+skills you acquired while working on The Pivot?
+
+In this project, I learned a lot about css, which was good. I didn't touch a lot
+of the logic pieces and I feel I learned more about working in a group than any
+technical pieces. I didn't feel like I learned as much about rails as I wanted.
+I hope in the next project, I can do a better job of perfecting some of the pieces
+of rails : models, views, and controllers.
+
+### Where will you focus your efforts in the second half of this module?
+
+I am really going to focus on being more methodical in my learning. I want to really
+understand rails.
+
+### You worked with 1409 on Mastermind yesterday. How did it feel to mentor other
+### students? How do you feel you've grown in the last 14 weeks? How do you feel
+### you'll grow in the next 10?
+
+I was impressed with 1409. I think they benefit from having '06, and '07 around.
+I was able to help too and that was the surprising part. I did some research and
+was able to come up with a piece of code. 

@@ -1,0 +1,51 @@
+### How do you feel about the concept for your self-directed project? How's
+### progress coming along?
+
+Finding parking when you are in an unfamiliar area can be a real pain. My ParkIt
+App is small in scope but there is opportunity for it to be something
+exciting. I say exciting because there is opportunity to build features in a modular
+fashion. For example, the idea that a logged in person can create their own
+parking event make comments on existing parking data.
+Ideally and eventually, I would like to re-work my app as a mobile app.  The other
+component of my app is the ability for it to draw from the local community.
+
+I'm not happyy with my progress. I never am. I am confident that I will become
+a programming expert but I am in no way there yet. I have clear goals laid out
+but I have so much to do, that I don't know that I can invest the time to actually
+make the thing that I want to make. Part of the time constraints come from the
+fact that I also need to be a dad. That's just the reality of my life right now.  
+My wife is super supportive but the reality is that I'm not a single person with
+extra video game time. Part of the problem stems from just becoming better at programming.
+As my skill level improves, so will my ability to hit the targets that I set.
+
+
+### As you start to turn your attention to job hunting, what do you want to
+### stand out about yourself and your skills? Why will someone be sure you're
+### the right fit for them?
+
+The expert path that I am on is what I think is an attractive attribute. I have confidence in
+myself enough to know that I will not stop learning until I am an expert.  By the
+very nature of that statement, I feel that it implies that I will never stop learning
+because any expert will tell you that they are not an expert. I see that there is
+value in seeing the forrest from the trees and sometimes that means telling your
+customers that you won't build a thing. Saying "no" to your customers seems like
+a bad thing, but I hope that employers recognize that it is actually a strength
+because it means as a programmer I place a higher priority on the value of a thing than
+on the completion or the "yes" of a thing.
+
+I also feel that testing is great for protecting code that is valuable. There has
+been a lot of talk about TDD, but I see testing as appropriate for design but also
+for maintaining valuable legacy code.
+
+I'm comfortable giving talks and I feel like I'm getting better and better at
+delivery dynamic programming talks. Having been an opera singer and middle school
+teacher has given me a great "stage" persona for giving talks.
+
+### What are your areas of emphasis for your last weeks at Turing? What
+### concrete steps will you take to step up your game?
+
+I want to continue to think of elements of Ruby that are exciting to me, like
+concurrency and rack. I'm also working on my brand. I want anyone that talks to me
+for more than 5 minutes to know that I'm on path to be an expert in this field (
+even though I'm no where close yet), that I believe in testing to improve design
+and protect legacy code, and that I am a dynamic and instructional speaker.
